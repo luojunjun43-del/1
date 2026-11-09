@@ -1,8 +1,8 @@
 {
     "Enabled": true,
-    "Version": "13.1",
+    "Version": "13.2",
     "Title": "脚本公告",
-    "Content": "欢迎使用脚本！\n\n11月6号有更新内容",
+    "Content": "欢迎使用脚本！\n\n11月9号有更新内容",
     "RepeatEnabled": false,
     "IntervalDays": 3
 }
