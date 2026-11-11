@@ -1,8 +1,13 @@
 {
 "Name":"月星的黑奴照",
-"latest":"13.2",
+"latest":"13.3",
 "image":"rbxassetid://95035934299041",
 "updates":[
+{
+"date":"2026/11/11",
+"version":"13.3",
+"content":"菜单\n🟡修复公告加载失败\n\n\n*脚本\n🟢新增战争之犬"
+},
 {
 "date":"2026/11/9",
 "version":"13.2",
