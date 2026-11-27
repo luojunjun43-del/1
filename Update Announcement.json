@@ -1,8 +1,13 @@
 {
 "Name":"qaz养的薛定谔猫",
-"latest":"1.36",
+"latest":"1.37",
 "image":"rbxassetid://110894661877090",
 "updates":[
+{
+"date":"2026/11/27",
+"version":"1.37",
+"content":"*脚本\n🟢新增咒术农场\n🟢新增方块大战(月星版)\n\n\n*功能更改\n⏺️防御\n🟢修复结束对局后ragebot用不了的问题"
+},
 {
 "date":"2026/11/24",
 "version":"1.36",
