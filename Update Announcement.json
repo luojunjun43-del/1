@@ -1,8 +1,13 @@
 {
 "Name":"qaz养的薛定谔猫",
-"latest":"1.37",
+"latest":"1.38",
 "image":"rbxassetid://110894661877090",
 "updates":[
+{
+"date":"2026/11/28",
+"version":"1.38",
+"content":"*脚本\n🟢新增非法足球"
+},
 {
 "date":"2026/11/27",
 "version":"1.37",
